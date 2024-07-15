@@ -6,7 +6,7 @@ Your Home Assistant just leveled up from smart to suave. Enjoy the ride!
 
 Structure
 
-![Project Structure](images/first_structure.png)
+![Project Structure](Images/first_structure.png)
 
 Yes I want to keep it as simple as it could be.
 
